@@ -1,5 +1,5 @@
-# Car Showcase App
-  A showcase web application for different cars with features like filter with year of make and fuel type.
+# Car Rental Showcase App
+  A showcase web application for different cars rental service with features like filter with year of make and fuel type.
 
 # Tech Stack
 - Next.js
